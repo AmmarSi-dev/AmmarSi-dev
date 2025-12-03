@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://i.postimg.cc/T1YKzzwh/fr.jpg" alt="Brainrot Meme: My brain during a SQL session" width="500"/>
+  <img src="https://i.postimg.cc/bDmp8Yz9/fr.jpg" alt="yeeeeeeeeeeeeeeeeeeet" width="500"/>
 </div>
