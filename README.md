@@ -15,7 +15,7 @@
 > **My GitHub profile is a full-stack resume. I can crunch your numbers, build your website, and then put everything in a tiny container. Don't ask me to fix your printer, though. That's black magic.**
 
 <div align="center">
-  <img src="(https://i.postimg.cc/T1YKzzwh/fr.jpg)" alt="Brainrot Meme: My brain during a SQL session" width="500"/>
+  <img src="[![fr.jpg](https://i.postimg.cc/T1YKzzwh/fr.jpg)](https://postimg.cc/ygt69r0z)" alt="Brainrot Meme: My brain during a SQL session" width="500"/>
   <p><em>Actual photo of my brain during a complex SQL query.</em></p>
 </div>
 
