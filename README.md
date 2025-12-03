@@ -8,19 +8,22 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bW80emVvNDJrdTB1MXI2MjkwNml4OHp2Z285NTR4ZDR1ZTFjciZlcD12MV9pbnRlcm5hbF9naWZfY3JvcHBlZCZjdD1z/hAjkJ3y915BQs/giphy.gif" width="30" height="30"/>
 </h3>
 
+---
+
+## 🐸 Data Brainrot Status
+
+> **My GitHub profile is a full-stack resume. I can crunch your numbers, build your website, and then put everything in a tiny container. Don't ask me to fix your printer, though. That's black magic.**
+
 <div align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/AmmarS-Analyst?style=for-the-badge&color=8A2BE2&label=Follow+for+Dad+Jokes)
-  ![Profile Views](https://komarev.com/ghpvc/?username=AmmarS-Analyst&style=for-the-badge&color=8A2BE2&label=Stalker+Count)
-  ![GitHub Stars](https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=GitHub%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FAmmarS-Analyst&style=for-the-badge)
+  <img src="https://i.imgur.com/GzB9s3U.png" alt="Brainrot Meme: My brain during a SQL session" width="500"/>
+  <p><em>Actual photo of my brain during a complex SQL query.</em></p>
 </div>
+
+<br>
 
 ---
 
 ## 🚀 The Toolbox of a Code Multitasker 🛠️
-
-> **My GitHub profile is a full-stack resume. I can crunch your numbers, build your website, and then put everything in a tiny container. Don't ask me to fix your printer, though. That's black magic.**
-
-<br>
 
 ### 🌌 Data & Backend (Where the real work happens)
 * **The Languages That Pay The Bills:**
